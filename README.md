@@ -9,6 +9,10 @@
 - Создание анимаций для визуализации работы токарного станка.
 
 ![image](https://github.com/liquisss/-/assets/119260541/4e8b5146-3adc-42b4-86f4-735f2583a1a8)
+![image](https://github.com/liquisss/-/assets/119260541/75723306-b5c5-417b-9d09-e1b5c19660be)
+![image](https://github.com/liquisss/-/assets/119260541/15e3770f-e35d-4b5f-8ed7-0405ae27f8d0)
+![image](https://github.com/liquisss/-/assets/119260541/f2507829-3411-403f-b064-0ad7be278a71)
 
-# -
+
+# --
 Проект по технологиям Виртуальной реальности
